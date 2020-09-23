@@ -1,5 +1,6 @@
 
 public class Main {
 
-	System.out.println("Coucou");
+	float nb = Fraction();
+	System.out.println("nb = ",nb);
 }
